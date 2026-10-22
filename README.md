@@ -36,7 +36,7 @@ This course covers the core data abstractions, data structures, and algorithms t
 - Basic algorithm analysis: theoretical and experimental methods in measuring time, time complexity classes
 
   ## Student
-  **Github:** (https://github.com/DelaprovidenciaCpE)
+  **Github:**[DelaprovidenciaCpE] (https://github.com/DelaprovidenciaCpE)
 
   
 
