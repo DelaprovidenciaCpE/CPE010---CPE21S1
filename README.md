@@ -1,5 +1,5 @@
 <img width="1920" height="1080" alt="Black Electric Blue and Neon Green Futuristic Algorithms Technology Presentation" src="https://github.com/user-attachments/assets/6e7bb279-c80a-412b-997a-bd0c1b218160" />
-" src="https://github.com/user-attachments/assets/73ec4ffc-120f-45af-8ddb-7ffcae09495a" />
+
 # CPE 010 - Data Structures and Algorithms
 
 Laboratory activities, exams, and projects for **CPE 010: Data Structures and Algorithms**, organized by grading period. All code is written in **C++**.
