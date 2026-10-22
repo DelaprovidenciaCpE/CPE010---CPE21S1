@@ -1,0 +1,1 @@
+<img width="1920" height="1080" alt="Black Electric Blue and Neon Green Futuristic Algorithms Technology Presentation(2)" src="https://github.com/user-attachments/assets/ed78ad91-b90d-4d70-a4ef-2868a1b3e9e4" />
