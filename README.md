@@ -13,7 +13,6 @@ Laboratory activities, exams, and projects for **CPE 010: Data Structures and Al
 | **School** | Technological Institute of the Philippines |
 | **Term** | 1st Semester, S.Y. 2026-2027 |
 | **Instructor** | **Engr**. Jimlord Quejado |
-| **Credits** | 2 units (laboratory), 6 contact hours |
 
 ## About the Course
 
@@ -35,4 +34,9 @@ This course covers the core data abstractions, data structures, and algorithms t
 - Trees: Tree ADT, general and binary search trees, AVL trees, traversal algorithms
 - Graphs: Graph ADT, adjacency matrix and list, breadth-first search, depth-first search
 - Basic algorithm analysis: theoretical and experimental methods in measuring time, time complexity classes
+
+  ## Student
+  **Github:** (https://github.com/DelaprovidenciaCpE)
+
+  
 
