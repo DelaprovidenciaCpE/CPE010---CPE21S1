@@ -19,17 +19,6 @@ Laboratory activities, exams, and projects for **CPE 010: Data Structures and Al
 
 This course covers the core data abstractions, data structures, and algorithms that form the foundation of efficient programs. Students design algorithms for each data structure and apply them to engineering-related problems using C++. The course supports **SDG 9: Industry, Innovation, and Infrastructure**.
 
-**Prerequisites:** CPE009A (Object-Oriented Programming 1), MATH006 (Discrete Math)
-
-### Course Outcomes
-1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
-2. Design efficient algorithms and analyze their complexity.
-3. Build efficient algorithms based on selected data structures using good programming styles in C++.
-
-
-
-
-
 ## Coverage by Period
 
 ### Prelim
