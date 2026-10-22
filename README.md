@@ -25,7 +25,7 @@ This course covers the core data abstractions, data structures, and algorithms t
 2. Design efficient algorithms and analyze their complexity.
 3. Build efficient algorithms based on selected data structures using good programming styles in C++.
 
-## Repository Structure
+
 
 
 
