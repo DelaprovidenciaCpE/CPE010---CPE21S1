@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Black Electric Blue and Neon Green Futuristic Algorithms Technology Presentation" src="https://github.com/user-attachments/assets/6e7bb279-c80a-412b-997a-bd0c1b218160" />
+<img width="1920" height="1080" alt="Black Electric Blue and Neon Green Futuristic Algorithms Technology Presentation(1)" src="https://github.com/user-attachments/assets/fcbe2284-41e5-4247-8ccf-5badd7ff3697" />
+
 
 # CPE 010 - Data Structures and Algorithms
 
@@ -10,13 +11,7 @@ Laboratory activities, exams, and projects for **CPE 010: Data Structures and Al
 | **Student Number** | 2517178 |
 | **Section** | CPE21S1 |
 | **Program** | BS Computer Engineering |
-| **School** | Technological Institute of the Philippines |
-| **Term** | 1st Semester, S.Y. 2026-2027 |
 | **Instructor** | **Engr**. Jimlord Quejado |
-
-## About the Course
-
-This course covers the core data abstractions, data structures, and algorithms that form the foundation of efficient programs. Students design algorithms for each data structure and apply them to engineering-related problems using C++. The course supports **SDG 9: Industry, Innovation, and Infrastructure**.
 
 ## Coverage by Period
 
@@ -28,7 +23,6 @@ This course covers the core data abstractions, data structures, and algorithms t
 - Queues: array and linked list implementations, problem solving
 - Searching techniques: linear search, binary search, hashing
 - Sorting algorithms: basic sorting algorithms
-
 
 ### Finals
 - Trees: Tree ADT, general and binary search trees, AVL trees, traversal algorithms
