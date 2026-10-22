@@ -7,6 +7,7 @@ Laboratory activities, exams, and projects for **CPE 010: Data Structures and Al
 | | |
 |---|---|
 | **Student** | Dela Providencia, Dane Matthew F. |
+| **Student Number** | 2517178 |
 | **Section** | CPE21S1 |
 | **Program** | BS Computer Engineering |
 | **School** | Technological Institute of the Philippines |
