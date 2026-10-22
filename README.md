@@ -11,7 +11,7 @@ Computer Engineering Student
 
 | 🎓 Course | 📚 Section 
 |:---------:|:----------:
-| CPE-031 | CPE21S1 
+| CPE-010 | CPE21S1 
 
 ---
 
